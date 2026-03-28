@@ -2,7 +2,7 @@
 
 A fixer. Or to be more precise, a software developer with an unexpectedly broad background.
 
-I also do architecture, construction, investment, running things, and not just the pub or my political party. The upside of that mess is simple: I tend to see systems whole. Product, code, incentives, logistics, users, failure modes — not just whichever tiny box someone wrote on a job title.
+I also did architecture, construction, investment, running things, and not just the pub or my political party. The upside of that mess is simple: I tend to see systems whole. Product, code, incentives, logistics, users, failure modes — not just whichever tiny box someone wrote on a job title.
 
 ## I care about
 
