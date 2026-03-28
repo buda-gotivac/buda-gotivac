@@ -6,7 +6,7 @@ I also did architecture, construction, investment, running things, and not just 
 
 ## I care about
 
-- performance and low-latency systems (e.g., top 1% Lighthouse scores)
+- performance and low-latency systems
 - products with a moat
 - automation, embedded and edge devices
 - ideas that sound a bit insane right until they work
