@@ -1,4 +1,4 @@
-# Hi, I'm Buda.
+# Hi, I'm [Buda](https://buda.rs).
 
 A fixer. Or to be more precise, a software developer with an unexpectedly broad background.
 
@@ -16,5 +16,3 @@ I did architecture, construction management, investment, ran things, and not jus
 - complexity for its own sake
 - sloppiness
 - corporate fluff & trendy nonsense
-
-Website: [buda.rs](https://buda.rs)
